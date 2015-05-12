@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1429131121 source:c:\users\rossmery\desktop\lexico\lexico.cpp
+	"Lexico.h"
+
+1429131221 c:\users\rossmery\desktop\lexico\lexico.h
+	<iostream>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string>
+
+1385316878 source:c:\users\rossmery\desktop\lexico\main.cpp
+	<iostream>
+
+1431123512 source:c:\users\rossmery\desktop\compiladores\lexico\main.cpp
+	<iostream>
+	"Sintactico.h"
+
+1431039060 source:c:\users\rossmery\desktop\compiladores\lexico\lexico.cpp
+	"Lexico.h"
+
+1431097362 c:\users\rossmery\desktop\compiladores\lexico\lexico.h
+	<iostream>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string>
+	<map>
+	<fstream>
+	"List.h"
+
+1429957381 c:\users\rossmery\desktop\compiladores\lexico\list.h
+	"Nodo.h"
+
+1431116564 c:\users\rossmery\desktop\compiladores\lexico\nodo.h
+	<string>
+	<iostream>
+
+1431039107 source:c:\users\rossmery\desktop\compiladores\lexico\list.cpp
+	"List.h"
+
+1431116564 source:c:\users\rossmery\desktop\compiladores\lexico\nodo.cpp
+	"Nodo.h"
+
+1431123460 source:c:\users\rossmery\desktop\compiladores\lexico\sintactico.cpp
+	"Sintactico.h"
+
+1431120797 c:\users\rossmery\desktop\compiladores\lexico\sintactico.h
+	"Lexico.h"
+	<vector>
+	<stack>
+	<iostream>
+	<string>
+
+1431074814 c:\users\rossmery\desktop\compiladores\lexico\matrizs.h
+	"iterator2.h"
+	"ListaS.h"
+
+1359229536 c:\users\rossmery\desktop\compiladores\lexico\iterator2.h
+	"ListaS.h"
+
+1359229536 c:\users\rossmery\desktop\compiladores\lexico\listas.h
+	<ostream>
+	"NodoS.h"
+	<iostream>
+
+1359229536 c:\users\rossmery\desktop\compiladores\lexico\nodos.h
+	<ostream>
+	<iostream>
+
+1349977804 source:c:\users\rossmery\desktop\compiladores\lexico\iterator2.cpp
+
+1349977804 source:c:\users\rossmery\desktop\compiladores\lexico\listas.cpp
+
+1349977804 source:c:\users\rossmery\desktop\compiladores\lexico\matrizs.cpp
+
+1349977804 source:c:\users\rossmery\desktop\compiladores\lexico\nodos.cpp
+
